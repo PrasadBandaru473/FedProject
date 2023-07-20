@@ -84,6 +84,6 @@ p {
 
 @media screen and (min-width: 800px) {
     .bannerBgImage {
-       
+       width:100%;
       flex-direction: column;
     }
