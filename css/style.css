@@ -6,7 +6,7 @@
 
 
 .bannerBgImage{
-    height: 100vh;
+    height: 150vh;
     background: url("../images/1.jpg");
     background-size: cover;
     position: relative;
@@ -16,7 +16,7 @@
     text-align: right;
     position: absolute;
     top: 20%;
-    left: 70%;
+    left: 30%;
     transform: translate(-50%,-50%);
     color: white;
 }
